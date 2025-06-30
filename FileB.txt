@@ -1,2 +1,2 @@
 This is FileB
-This is for squash merge2
+This is for squash merge
