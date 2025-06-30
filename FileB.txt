@@ -1,3 +1,2 @@
 This is FileB
-Lets make a change
-Making another change
+This is for squash merge2
